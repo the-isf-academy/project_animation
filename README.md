@@ -5,6 +5,5 @@ Here's what is included:
 
 - `README.md` You're looking at it, or at least the formatted version. (Click "raw" to see the unformatted version.) Every project has a README explaining what it is.
 - `assessment.md` This is where you will write your self-assessment of your project.
-- `images` This is where you can store images you'd like to link in your planning and assestment documents. 
 - `project.py` When this is run, it should draw your project. (If your project is well-organized, there might not be much code in `project.py`. Instead, it might import functions from other modules.)
 - `settings.py` This is where you will store your settings for your animation. Feel free to add more settings to further parameterize your project. 
