@@ -7,3 +7,15 @@ Here's what is included:
 - `assessment.md` This is where you will write your self-assessment of your project.
 - `project.py` When this is run, it should draw your project. (If your project is well-organized, there might not be much code in `project.py`. Instead, it might import functions from other modules.)
 - `settings.py` This is where you will store your settings for your animation. Feel free to add more settings to further parameterize your project. 
+
+## Planning
+<Insert a link to your planning document here.>
+
+## How to use
+<Describe how to run your animation here.>
+
+## Settings
+<Describe the different settings in your `settings.py` file and what changing them will affect>
+
+## Modules
+<Describe any modules you wrote for your project here.>
