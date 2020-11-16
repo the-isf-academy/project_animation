@@ -1,5 +1,8 @@
 # Unit 0 Project: Animation
 
+<Add an overall description of your project here.>
+
+## Contents
 This is the starter code for [Project 0: Animation](http://cs.fablearn.org/courses/cs9/unit00/project). 
 Here's what is included:
 
@@ -15,7 +18,7 @@ Here's what is included:
 <Describe how to run your animation here.>
 
 ## Settings
-<Describe the different settings in your `settings.py` file and what changing them will affect>
+<Describe the different settings in your `settings.py` file and what changing them will affect.>
 
 ## Modules
 <Describe any modules you wrote for your project here.>
