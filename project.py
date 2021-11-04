@@ -1,5 +1,6 @@
 from turtle import *
 import settings
+import time
 
 def draw_animation(num_frames, sleeptime):
     for i in range(num_frames):
