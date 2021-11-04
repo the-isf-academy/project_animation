@@ -1,5 +1,10 @@
 # Unit 0 Project: Animation
 
+> **Don't forget to edit this `README.md` file**
+>
+> If you're interested in how to format markdown, click [here](https://www.markdownguide.org/basic-syntax/#images-1)
+
+
 >*Add an overall description of your project here.*
 
 ## Intial Contents
