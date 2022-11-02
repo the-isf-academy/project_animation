@@ -1,6 +1,6 @@
 # Unit 0 Project: Animation
 >
-> This was writteni in Markdown. If you're interested in how to format markdown, click [here](https://www.markdownguide.org/basic-syntax/#images-1)
+> This was written in Markdown. If you're interested in how to format Markdown, click [here](https://www.markdownguide.org/basic-syntax/#images-1)
 
 
 ## Intial Contents
