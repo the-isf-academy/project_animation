@@ -2,13 +2,14 @@
 name = "project-animation"
 version = "0.1.0"
 description = ""
-authors = ["emma <eqbrown@isf.edu.hk>"]
+authors = ["emma <eqbrown@isf.edu.hk>", "britte <bgenzlinger@isf.edu.hk>"]
 readme = "README.md"
 packages = [{include = "project_animation"}]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-
+python = "^3.9"
+superturtle = "^0.1.0"
+easing-functions = "^1.0.4"
 
 [build-system]
 requires = ["poetry-core"]

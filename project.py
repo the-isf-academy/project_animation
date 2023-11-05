@@ -1,23 +1,18 @@
 from turtle import *
-import settings
-import time
+from superturtle.animation import animate
+from settings import NUMFRAMES, LOOP, SCREENHEIGHT, SCREENWIDTH
 
-def draw_animation(num_frames, sleeptime):
-    for i in range(num_frames):
-        
 
-        update()
-        time.sleep(sleeptime)
-    clear()
+def draw_animation(num_frames, is_loop):
+    for frame in animate(frames=num_frames, loop=True):
+        pass # delete this and write your own code!        
 
 def main():
+    # set up the screen
     screen = Screen()
-    screen.setup(settings.SCREENWIDTH,settings.SCREENHEIGHT)
+    screen.setup(SCREENWIDTH,SCREENHEIGHT)
 
-    for i in range(settings.NUMREPEATS):
-        draw_animation(settings.NUMFRAMES, settings.SLEEPTIME)
-
-
-
-    
+    # call the animation function
+    draw_animation(NUMFRAMES, LOOP)
+ 
 main()

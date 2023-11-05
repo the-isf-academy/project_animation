@@ -3,3 +3,6 @@ __pycache__
 *.swp
 *.DS_Store
 
+#poetry
+poetry.lock
+
