@@ -9,5 +9,5 @@ Here's what is included:
 
 - `README.md` You're looking at it, or at least the formatted version. (Click "raw" to see the unformatted version.) Every project has a README explaining what it is.
 - `project.py` When this is run, it should draw your project. (If your project is well-organized, there might not be much code in `project.py`. Instead, it might import functions from other modules.)
-
+- `settings.py` the configuration file for your animation. You should be able to change the settings and effect the animation.
 
