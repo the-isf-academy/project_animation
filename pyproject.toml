@@ -9,7 +9,6 @@ packages = [{include = "project_animation"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 superturtle = "^0.1.0"
-easing-functions = "^1.0.4"
 
 [build-system]
 requires = ["poetry-core"]
