@@ -1,0 +1,4 @@
+DAY ONE
+#today testing a file, init commit_message.txt
+#next bla bla bla
+#feedback unsure how to rotate
