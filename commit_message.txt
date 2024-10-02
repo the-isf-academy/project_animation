@@ -1,4 +1,3 @@
-DAY ONE
-#today testing a file, init commit_message.txt
+DAY TWO
+#today adding commit_message.txt to gitignore
 #next bla bla bla
-#feedback unsure how to rotate

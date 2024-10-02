@@ -6,3 +6,6 @@ __pycache__
 #poetry
 poetry.lock
 
+#commit message file
+commit_message.txt
+
