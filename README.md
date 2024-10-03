@@ -3,6 +3,7 @@
 > This was written in Markdown. If you're interested in how to format Markdown, click [here](https://www.markdownguide.org/basic-syntax/#images-1)
 
 
+
 ## Intial Contents
 This is the starter code for [Project 0: Animation](http://cs.fablearn.org/courses/cs9/unit00/project). 
 Here's what is included:
