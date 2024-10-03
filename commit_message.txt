@@ -1,3 +1,0 @@
-DAY TWO
-#today adding commit_message.txt to gitignore
-#next bla bla bla
