@@ -28,3 +28,7 @@ def filled_circle(circle_size, color_name):
     begin_fill()
     circle(circle_size)
     end_fill()
+
+if __name__ == "__main__":
+    triangle(100, 'red')
+    input()
